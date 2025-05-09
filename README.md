@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @davidrlzzz
 - 👀 I’m interested in robotics and autonoumus devices
-- 🌱 I’m currently learning python, C, ML and data optimization methods
-- 💞️ I’m looking to collaborate on robotics project 
 
 
 <!---
